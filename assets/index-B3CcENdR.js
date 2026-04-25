@@ -12554,7 +12554,7 @@ Error generating stack: ` +
     dexscreener: `https://dexscreener.com/ethereum/${d}`,
     x: `https://x.com/SpikebyFurie_x`,
     telegram: `https://t.me/SpikebyFurie`,
-  };  
+  };   
 function p() {
   return typeof window > `u`
     ? !1
