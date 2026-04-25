@@ -12548,7 +12548,7 @@ Error generating stack: ` +
   }),
   l = n(),
   u = c(),
-  d = `0xcomingsoon`,
+  d = `0xdB1f3Bf45e3d6F4AA88c25432b2Cd407963f952E`,
   f = {
     pumpBuy: `https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=${d}`,
     dexscreener: `https://dexscreener.com/ethereum/${d}`,
