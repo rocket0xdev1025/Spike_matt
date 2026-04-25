@@ -12548,12 +12548,12 @@ Error generating stack: ` +
   }),
   l = n(),
   u = c(),
-  d = `BFiGUxnidogqcZAPVPDZRCfhx3nXnFLYqpQUaUGpump`,
+  d = `0xcomingsoon`,
   f = {
-    pumpBuy: `https://pump.fun/coin/${d}`,
-    dexscreener: `https://dexscreener.com/solana/desysgeej9ytt55e9amdfs9p2cm5fryxt61kgcammcrb`,
-    x: `https://x.com/spikeorigin`,
-    telegram: `https://t.me/SpikeOnSolanaPortal`,
+    pumpBuy: `https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=${d}`,
+    dexscreener: `https://dexscreener.com/ethereum/${d}`,
+    x: `https://x.com/SpikebyFurie_x`,
+    telegram: `https://t.me/SpikebyFurie`,
   };
 function p() {
   return typeof window > `u`
